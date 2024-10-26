@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Alice",
+      "age": 35,
+      "department": "Sales",
+      "salary": 60000,
+      "experience": 6
+    },
+    {
+      "name": "Bob",
+      "age": 22,
+      "department": "Marketing",
+      "salary": 40000,
+      "experience": 2
+    },
+    {
+      "name": "Charlie",
+      "age": 28,
+      "department": "Marketing",
+      "salary": 25000,
+      "experience": 3
+    }
+  ]
+  
